@@ -51,7 +51,7 @@ My research interests include Explainable AI and Human-in-the-loop ML, particula
 
 {% # 💬 Invited Talks %}
 {% - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. %}
-{% - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) %}
+{% - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  %}{% \| [\[video\]](https://github.com/) %}
 
 # 💻 Internships
 - *2021.12 - 2022.6*, Interactive Entertainment Group (IEG) in Tencent (Supervised by [Ziming Wu](https://scholar.google.com/citations?user=gDsBVKAAAAAJ)), Shenzhen
