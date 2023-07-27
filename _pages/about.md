@@ -19,9 +19,7 @@ redirect_from:
 
 I am currently pursuing his Ph.D. degree at the School of Information Science and Technology, ShanghaiTech University. I received his B.S. Degree from Wuhan University of Science and Technology. Now I am doing my internship in User eXperience center (UX), Netease.
 
-My research interests include Explainable AI and Human-in-the-loop ML, especially in the realm of Social Computing. I develop visual analytics system with innovative AI models to make AI-related applications more interpretable and faciliate people's usage.
-
-{% My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). %}
+My research interests include Explainable AI and Human-in-the-loop ML, particularly within the realm of Social Computing. I specialize in developing visual analytics systems with innovative AI models to enhance the interpretability of AI-related applications and make them more user-friendly.
 
 
 # 🔥 News
