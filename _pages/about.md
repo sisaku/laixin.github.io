@@ -24,7 +24,6 @@ My research interests include Explainable AI and Human-in-the-loop ML, particula
 
 # 🔥 News
 - *2023.07*: &nbsp;🎉🎉 The poster of <u>Understanding Auto-Scheduling Optimizations for Model Deployment via Visualizations</u> is accepted by VIS'23.
-{% - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. %}
 
 # 📝 Publications 
 
