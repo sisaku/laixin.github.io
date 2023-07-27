@@ -41,17 +41,21 @@ My research interests include Explainable AI and Human-in-the-loop ML, particula
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+{% comment %}
 {% # 🎖 Honors and Awards %}
 {% - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. %}
 {% - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. %}
+{% endcomment %}
 
 # 📖 Educations
 - *2020.09 - present*, PhD, ShanghaiTech University, Shanghai
 - *2015.09 - 2019.06*, Undergraduate, Wuhan University of Science and Technology, Wuhan
 
+{% comment %}
 {% # 💬 Invited Talks %}
 {% - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. %}
 {% - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  %}{% \| [\[video\]](https://github.com/) %}
+{% endcomment %}
 
 # 💻 Internships
 - *2021.12 - 2022.6*, Interactive Entertainment Group (IEG) in Tencent (Supervised by [Ziming Wu](https://scholar.google.com/citations?user=gDsBVKAAAAAJ)), Shenzhen
