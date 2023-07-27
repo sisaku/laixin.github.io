@@ -52,9 +52,9 @@ My research interests include Explainable AI and Human-in-the-loop ML, particula
 - *2015.09 - 2019.06*, Undergraduate, Wuhan University of Science and Technology, Wuhan
 
 <!---
-{% # 💬 Invited Talks %}
-{% - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. %}
-{% - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  %}{% \| [\[video\]](https://github.com/) %}
+# 💬 Invited Talks 
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. \| [\[video\]](https://github.com/) 
 --->
 
 # 💻 Internships
