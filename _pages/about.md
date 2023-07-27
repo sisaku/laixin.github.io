@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing his Ph.D. degree at the School of Information Science and Technology, ShanghaiTech University. I received his B.S. Degree from Wuhan University of Science and Technology. Now I am doing my internship in User eXperience center (UX), Netease.
+I am currently pursuing his Ph.D. degree at the School of Information Science and Technology, ShanghaiTech University. I received his B.S. Degree from Wuhan University of Science and Technology.
 
-My research interests include Explainable AI and Human-in-the-loop ML, particularly within the realm of Social Computing. I specialize in developing visual analytics systems with innovative AI models to enhance the interpretability of AI-related applications and make them more user-friendly.
+My research interests include Explainable AI and Human-in-the-loop ML, particularly within the realm of Social Computing. I develop visual analytics systems with innovative AI models to enhance the interpretability of AI-related applications and make them more user-friendly.
 
 
 # 🔥 News
