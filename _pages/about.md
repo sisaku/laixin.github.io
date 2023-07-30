@@ -34,7 +34,7 @@ My research interests include Explainable AI and Human-in-the-loop ML, particula
 
 **Laixin Xie**, Ziming Wu, Peng Xu, Wei Li, Xiaojuan Ma, Quan Li
 
-[**Video**](https://www.youtube.com/watch?v=gJBLNBJDSio) <strong><span class='show_paper_citations' data='AB_U2BoAAAAJ:d1gkVwhDpl0C'>Citation</span></strong>
+[**Video**](https://www.youtube.com/watch?v=gJBLNBJDSio) | <strong><span class='show_paper_citations' data='AB_U2BoAAAAJ:d1gkVwhDpl0C'></span></strong>
 - Researched on the informal social role in MMORPGs, cooperating with Tencent and Netease.
 - Developed an adapted **dynamic network embedding** method to identify the potential informal roles from the perspective of behavioral interaction analysis
 - Proposed a visual analytics system named RoleSeer to investigate the **informal roles** from the perspectives of behavioral interactions and depict their dynamic interconversions and transitions. 
@@ -48,7 +48,7 @@ My research interests include Explainable AI and Human-in-the-loop ML, particula
 
 **Laixin Xie**, Yang Ouyang, Longfei Chen, Ziming Wu, Quan Li
 
-**Video** <strong><span class='show_paper_citations' data='AB_U2BoAAAAJ:u-x6o8ySG0sC'></span></strong>
+**Video** | <strong><span class='show_paper_citations' data='AB_U2BoAAAAJ:u-x6o8ySG0sC'></span></strong>
 - Researched how to leverage **contrastive learning** to address **missing data**, cooperating with Tencent.
 - Proposed a contrastive learning-based framework, allowing label prediction with the presence of data missing and without any imputation. 
 - Further developedd a visual analytics system, CIVis to **understand** the training process of contrastive learning and iterative refinement.
