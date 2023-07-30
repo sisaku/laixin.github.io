@@ -34,14 +34,30 @@ My research interests include Explainable AI and Human-in-the-loop ML, particula
 
 **Laixin Xie**, Ziming Wu, Peng Xu, Wei Li, Xiaojuan Ma, Quan Li
 
-<!--- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> --->
+[**Video**](https://www.youtube.com/watch?v=gJBLNBJDSio) <strong><span class='show_paper_citations' data='AB_U2BoAAAAJ:d1gkVwhDpl0C'></span></strong>
 - Researched on the informal social role in MMORPGs, cooperating with Tencent and Netease.
 - Developed an adapted **dynamic network embedding** method to identify the potential informal roles from the perspective of behavioral interaction analysis
 - Proposed a visual analytics system named RoleSeer to investigate the **informal roles** from the perspectives of behavioral interactions and depict their dynamic interconversions and transitions. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Better Modeling With Missing Data: A Contrastive Learning-Based Visual Analytics Perspective](https://ieeexplore.ieee.org/abstract/document/10149378)
+
+**Laixin Xie**, Yang Ouyang, Longfei Chen, Ziming Wu, Quan Li
+
+[**Video**]() <strong><span class='show_paper_citations' data='AB_U2BoAAAAJ:u-x6o8ySG0sC'></span></strong> --->
+- Researched how to leverage **contrastive learning** to address **missing data**, cooperating with Tencent.
+- Proposed a contrastive learning-based framework, allowing label prediction with the presence of data missing and without any imputation. 
+- Further developedd a visual analytics system, CIVis to **understand** the training process of contrastive learning and iterative refinement.
+</div>
+</div>
+
+- [VFLens: Co-design the Modeling Process for Efficient Vertical Federated Learning via Visualization](https://arxiv.org/abs/2210.00472), Yun Tian, He Wang, **Laixin Xie**, Xiaojuan Ma, Quan Li, Chinese CHI 2022
+- [Object Detection of NAO Robot Based on a Spectrum Model](https://link.springer.com/chapter/10.1007/978-3-319-95957-3_36), **Laixin Xie**, Chunhua Deng, ICIC 2018
+- [Dimensionality Deduction for Action Proposals: To Extract or to Select?](https://link.springer.com/chapter/10.1007/978-3-319-95957-3_37), Jian Jiang, Haoyu Wang, **Laixin Xie**, Junwen Zhang, Chunhua Deng, ICIC2018
 
 <!---
 # 🎖 Honors and Awards  
