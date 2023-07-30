@@ -27,7 +27,7 @@ My research interests include Explainable AI and Human-in-the-loop ML, particula
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2022</div><img src='images/chi22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RoleSeer: Understanding Informal Social Role Changes in MMORPGs via Visual Analytics](https://dl.acm.org/doi/abs/10.1145/3491102.3517712)
@@ -41,7 +41,7 @@ My research interests include Explainable AI and Human-in-the-loop ML, particula
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/tvcg23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Better Modeling With Missing Data: A Contrastive Learning-Based Visual Analytics Perspective](https://ieeexplore.ieee.org/abstract/document/10149378)
