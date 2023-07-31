@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing my Ph.D. degree (supervised by [Quan Li](https://thinkavatar.github.io/)) at the [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/), ShanghaiTech University. I received his B.S. Degree from Wuhan University of Science and Technology.
+I am currently pursuing my Ph.D. degree (supervised by [Quan Li](https://faculty.sist.shanghaitech.edu.cn/liquan/)) at the [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/), ShanghaiTech University. I received his B.S. Degree from Wuhan University of Science and Technology.
 
 My research interests include Explainable AI and Human-in-the-loop ML, particularly within the realm of Social Computing. I develop visual analytics systems with innovative AI models to enhance the interpretability of AI-related applications and make them more user-friendly.
 
