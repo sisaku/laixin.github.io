@@ -34,7 +34,7 @@ My research interests include Explainable AI and Human-in-the-loop ML, particula
 
 **Laixin Xie**, Ziming Wu, Peng Xu, Wei Li, Xiaojuan Ma, Quan Li
 
-[**Video**](https://www.youtube.com/watch?v=gJBLNBJDSio) <strong>[**Arxiv**](https://arxiv.org/abs/2210.10698)</strong> <strong><span class='show_paper_citations' data='AB_U2BoAAAAJ:d1gkVwhDpl0C'></span></strong>
+[**Video**](https://www.youtube.com/watch?v=gJBLNBJDSio) ｜ [**Arxiv**](https://arxiv.org/abs/2210.10698) <strong><span class='show_paper_citations' data='AB_U2BoAAAAJ:d1gkVwhDpl0C'></span></strong>
 - Researched on the informal social role in MMORPGs, cooperating with Tencent and Netease.
 - Developed an adapted **dynamic network embedding** method to identify the potential informal roles from the perspective of behavioral interaction analysis
 - Proposed a visual analytics system named RoleSeer to investigate the **informal roles** from the perspectives of behavioral interactions and depict their dynamic interconversions and transitions. 
