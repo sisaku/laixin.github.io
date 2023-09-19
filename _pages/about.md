@@ -48,7 +48,7 @@ My research interests include Explainable AI and Human-in-the-loop ML, particula
 
 **Laixin Xie**, Yang Ouyang, Longfei Chen, Ziming Wu, Quan Li
 
-**Video** <strong><span class='show_paper_citations' data='AB_U2BoAAAAJ:u-x6o8ySG0sC'></span></strong>
+**Video** | [**Arxiv**](https://arxiv.org/abs/2309.09744) <strong><span class='show_paper_citations' data='AB_U2BoAAAAJ:u-x6o8ySG0sC'></span></strong>
 - Researched how to leverage **contrastive learning** to address **missing data**, cooperating with Tencent.
 - Proposed a contrastive learning-based framework, allowing label prediction with the presence of data missing and without any imputation. 
 - Further developedd a visual analytics system, CIVis to **understand** the training process of contrastive learning and iterative refinement.
