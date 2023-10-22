@@ -78,4 +78,4 @@ My research interests include Explainable AI and Human-in-the-loop ML, particula
 # 💻 Internships
 - *2021.12 - 2022.6*, Interactive Entertainment Group (IEG) in Tencent (Supervised by [Ziming Wu](https://scholar.google.com/citations?user=gDsBVKAAAAAJ)), Shenzhen
 - *2022.11 - 2023.9*, User eXperience (UX) in Netease, Shanghai
-- *2023.09 - present*, Hong Kong University of Science and Technology (HKUST), Supervised by [Xiaojuan Ma](https://www.cse.ust.hk/~mxj/)
+- *2023.09 - present*, Hong Kong University of Science and Technology (HKUST), Supervised by [Xiaojuan Ma](https://www.cse.ust.hk/~mxj/), Hong Kong
