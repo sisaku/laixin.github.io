@@ -17,10 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing my Ph.D. degree (supervised by [Quan Li](https://faculty.sist.shanghaitech.edu.cn/liquan/)) at the [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/), ShanghaiTech University.
+Laixin is currently pursuing Ph.D. degree (supervised by [Quan Li](https://faculty.sist.shanghaitech.edu.cn/liquan/)) at the [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/), ShanghaiTech University.
 
-My research interests include Explainable AI and Human-in-the-loop ML, particularly within the realm of Social Computing. I develop visual analytics systems with innovative AI models to enhance the interpretability of AI-related applications and make them more user-friendly.
+My research interests span **Social Network in Game** and **VIS4HPC** (addressing HPC challengs via visual analytics approach). I design and implement visual analytics systems, deep learning algorithms (GNN, temporal models, interpretability methods), and empirical studies aimed at enhancing AI's ability to serve human needs.
 
+**I am currently on the job market. If you have any relevant positions or opportunities, please feel free to reach out to me via email.**
 
 # 🔥 News
 - *2023.07*: &nbsp;🎉🎉 A poster [**Understanding Auto-Scheduling Optimizations for Model Deployment via Visualizations**](https://arxiv.org/abs/2308.04724) is accepted by VIS'23.
